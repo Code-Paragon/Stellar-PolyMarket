@@ -20,6 +20,29 @@ It combines:
 
 ---
 
+## 🤔 Why Stella Polymarket?
+
+Prediction markets are one of the most powerful tools for aggregating collective intelligence — yet most existing platforms are:
+
+- **Expensive** — high gas fees make small stakes impractical
+- **Exclusive** — built for crypto-native users in developed markets
+- **Opaque** — centralized platforms can manipulate outcomes
+- **Slow** — settlement takes days on congested networks
+
+Stella Polymarket fixes this by building on Stellar, a blockchain designed for fast, cheap, and accessible financial transactions.
+
+| Problem | Stella Polymarket Solution |
+|--------|---------------------------|
+| High fees on Ethereum | Stellar transactions cost fractions of a cent |
+| Slow settlement | Stellar confirms in 3–5 seconds |
+| Centralized control | Soroban smart contracts — trustless and transparent |
+| Inaccessible to emerging markets | Built with Africa and global south in mind |
+| Complex UX | Simple wallet connect + one-click betting |
+
+Whether you're a casual user predicting football results or a serious forecaster tracking macroeconomic trends, Stella Polymarket gives you a fair, fast, and transparent arena to put your knowledge to work.
+
+---
+
 ## 🎯 Core Idea
 
 Users stake tokens on outcomes of real-world events.
