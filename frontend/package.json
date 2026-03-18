@@ -1,0 +1,22 @@
+{
+  "name": "stella-polymarket-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stellar/freighter-api": "^1.7.1",
+    "@stellar/stellar-sdk": "^11.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
+  }
+}
